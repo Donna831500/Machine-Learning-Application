@@ -72,8 +72,8 @@ This plot is called a Learning Curve.
 Let us further explore some variants of KNN.
 
 
-### (d) Replace the Euclidean metric with the following metrics5 and test them.
-ummarize the test errors (i.e., when k = k∗) in a table. Use all of your training data
+### (d) Replace the Euclidean metric with the following metrics and test them.
+Summarize the test errors (i.e., when k = k∗) in a table. Use all of your training data
 and select the best k when {1, 6, 11, . . . , 196}.
 
 i. Minkowski Distance:
@@ -81,6 +81,7 @@ A. which becomes Manhattan Distance with p = 1.
 B. with log10(p) ∈ {0.1, 0.2, 0.3, . . . , 1}. In this case, use the k∗ you found
 for the Manhattan distance in ??. What is the best log10(p)?
 C. which becomes Chebyshev Distance with p → ∞
+
 ii. Mahalanobis Distance.
 
 ### (e)

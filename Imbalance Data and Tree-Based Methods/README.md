@@ -7,10 +7,10 @@ This project demonstrate how imbalance data affect the accuracy of different mod
 
 ## Data
 Download the Communities and Crime data from
-https://archive.ics.uci. edu/ml/datasets/Communities+and+Crime.
+https://archive.ics.uci.edu/ml/datasets/Communities+and+Crime.
 
 Download the APS Failure data from:
-https://archive.ics.uci.edu/ml/datasets/APS+Failure+at+Scania+Trucks .
+https://archive.ics.uci.edu/ml/datasets/APS+Failure+at+Scania+Trucks.
 
 Or find the data in 'data' directory.
 
